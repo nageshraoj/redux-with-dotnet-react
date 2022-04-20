@@ -455,7 +455,7 @@ $RECYCLE.BIN/
 
 /node_modules/*
 
-*/Migrations/*
+Migrations/
 # dependencies
 /node_modules
 /.pnp
